@@ -16,4 +16,5 @@ La simulación debe permitir, en tiempo de ejecución:
 Además, a través de un archivo (texto, objeto, csv o json), se le debe poder indicar las restricciones 
 en cuanto a recursos.
 
+Editor de código: NetBeans
 Estudiantes: Pedro Barrios, Gabriela Banezca 
